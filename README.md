@@ -1,5 +1,5 @@
-# Depto de Sistemas y Computación
-# Ing. En Sistemas Computacionales
+# BOARD-SSD1306
+# Luis Antonio Montes Ojeda - 20211814
 
 # SISTEMAS PROGRAMABLES 23a
 
