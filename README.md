@@ -1,11 +1,11 @@
 # BOARD-SSD1306
 # Luis Antonio Montes Ojeda - 20211814
 
-## 2. ¿Qué es BOARD-SSD1306?
+## ¿Qué es BOARD-SSD1306?
 
 BOARD-SSD1306 es una placa o tarjeta electrónica que utiliza el controlador SSD1306 para gestionar pantallas OLED. Las pantallas OLED (Diodos Orgánicos Emisores de Luz) son una tecnología de visualización que ofrece colores brillantes y alta resolución. BOARD-SSD1306 actúa como un puente entre un microcontrolador o una computadora y la pantalla OLED, permitiendo mostrar texto, gráficos y otros elementos visuales en la pantalla.
 
-## 3. Componentes Principales
+## Componentes Principales
 
 Los componentes principales de BOARD-SSD1306 incluyen:
 
@@ -14,13 +14,13 @@ Los componentes principales de BOARD-SSD1306 incluyen:
 - **Interfaz de Comunicación**: Puede utilizar interfaces como I2C (Inter-Integrated Circuit) o SPI (Serial Peripheral Interface) para comunicarse con otros dispositivos.
 - **Fuente de Alimentación**: Proporciona la energía necesaria para el funcionamiento de la placa y la pantalla.
 
-## 4. Funcionamiento de BOARD-SSD1306
+## Funcionamiento de BOARD-SSD1306
 
 BOARD-SSD1306 funciona enviando comandos y datos a la pantalla OLED a través del controlador SSD1306. Los comandos pueden incluir instrucciones para limpiar la pantalla, establecer el brillo, posicionar el cursor y más. Los datos se utilizan para mostrar texto y gráficos en la pantalla.
 
 La comunicación con BOARD-SSD1306 generalmente se realiza a través de un protocolo como I2C o SPI. Los microcontroladores y computadoras pueden enviar comandos y datos a BOARD-SSD1306, que a su vez los traduce en acciones visuales en la pantalla OLED.
 
-## 5. Aplicaciones y Usos
+## Aplicaciones y Usos
 
 BOARD-SSD1306 se utiliza en una variedad de aplicaciones, incluyendo:
 
@@ -29,7 +29,7 @@ BOARD-SSD1306 se utiliza en una variedad de aplicaciones, incluyendo:
 - **Proyectos DIY**: En proyectos de electrónica y robótica para mostrar información relevante.
 - **Instrumentación y Medición**: En paneles de control y dispositivos de medición.
 
-## 6. Ventajas de BOARD-SSD1306
+## Ventajas de BOARD-SSD1306
 
 Algunas de las ventajas de utilizar BOARD-SSD1306 incluyen:
 
