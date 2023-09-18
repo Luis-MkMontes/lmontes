@@ -7,6 +7,7 @@ BOARD-SSD1306 es una placa o tarjeta electrónica que utiliza el controlador SSD
 
 ![](Display.png){width=50%}
 
+
 ## Componentes Principales
 
 Los componentes principales de BOARD-SSD1306 incluyen:
