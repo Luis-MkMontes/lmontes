@@ -5,7 +5,7 @@
 
 BOARD-SSD1306 es una placa o tarjeta electrónica que utiliza el controlador SSD1306 para gestionar pantallas OLED. Las pantallas OLED (Diodos Orgánicos Emisores de Luz) son una tecnología de visualización que ofrece colores brillantes y alta resolución. BOARD-SSD1306 actúa como un puente entre un microcontrolador o una computadora y la pantalla OLED, permitiendo mostrar texto, gráficos y otros elementos visuales en la pantalla.
 
-![](Display.png)
+![](Display.png){width=50%}
 
 ## Componentes Principales
 
@@ -15,6 +15,15 @@ Los componentes principales de BOARD-SSD1306 incluyen:
 - **Conexiones y Puertos**: Conectores para conectar BOARD-SSD1306 a una pantalla OLED y a otros dispositivos, como microcontroladores o Raspberry Pi.
 - **Interfaz de Comunicación**: Puede utilizar interfaces como I2C (Inter-Integrated Circuit) o SPI (Serial Peripheral Interface) para comunicarse con otros dispositivos.
 - **Fuente de Alimentación**: Proporciona la energía necesaria para el funcionamiento de la placa y la pantalla.
+
+Los pines que presenta son:
+
+| Pin                | Descripción                                        |
+|--------------------|----------------------------------------------------|
+| SCL                | Serial Clock para la comunicación I2C             |
+| SDA                | Serial Data para la comunicación I2C o pin de datos en SPI |
+| VCC                | Voltaje positivo (3.3V o 5V) para la alimentación  |
+| GND                | Conexión a tierra                                  |
 
 ## Funcionamiento de BOARD-SSD1306
 
