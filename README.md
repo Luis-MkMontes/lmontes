@@ -50,3 +50,6 @@ Algunas de las ventajas de utilizar BOARD-SSD1306 incluyen:
 - **Facilidad de Uso**: BOARD-SSD1306 simplifica la interfaz con las pantallas OLED, lo que facilita la programación.
 - **Tamaño Compacto**: Son ideales para dispositivos compactos y portátiles debido a su delgadez y tamaño reducido.
 
+## Ejemplo
+
+https://wokwi.com/projects/359558101922696193
