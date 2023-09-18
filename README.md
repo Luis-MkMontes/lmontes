@@ -52,4 +52,4 @@ Algunas de las ventajas de utilizar BOARD-SSD1306 incluyen:
 
 ## Ejemplo
 
-https://wokwi.com/projects/359558101922696193
+(https://wokwi.com/projects/359558101922696193)
