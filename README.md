@@ -5,7 +5,7 @@
 
 BOARD-SSD1306 es una placa o tarjeta electrónica que utiliza el controlador SSD1306 para gestionar pantallas OLED. Las pantallas OLED (Diodos Orgánicos Emisores de Luz) son una tecnología de visualización que ofrece colores brillantes y alta resolución. BOARD-SSD1306 actúa como un puente entre un microcontrolador o una computadora y la pantalla OLED, permitiendo mostrar texto, gráficos y otros elementos visuales en la pantalla.
 
-![](Display.png){width=50%}
+![](Display.png)
 
 
 ## Componentes Principales
