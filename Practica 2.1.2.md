@@ -61,7 +61,7 @@ if _name_ == '_main_':
 
 # PRUEBAS
 
-![](P2_1_1.png)
+![](P2_1_2.png)
 
 # CONCLUSIONES
 
