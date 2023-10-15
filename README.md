@@ -1,6 +1,6 @@
 # Montes Ojeda Luis Antonio - 20211814
 
-Repositorio para paginas de Sistemas Programables.
+Repositorio para practicas de Sistemas Programables.
 
 ## Practicas
 
