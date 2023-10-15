@@ -4,10 +4,10 @@ Repositorio para practicas de Sistemas Programables.
 
 ## Practicas
 
-- ### [Exposición](https://github.com/Luis-MkMontes/lmontes/blob/main/Expo.md)
-- ### [Practica 2.1.1: Hola Mundo](https://github.com/Luis-MkMontes/lmontes/blob/main/Practica%202.1.1.md)
-- ### [Practica 2.1.2: Hora de Internet](https://github.com/Luis-MkMontes/lmontes/blob/main/Practica%202.1.2.md)
-- ### [Practica 2.2: Temperatura](https://github.com/Luis-MkMontes/lmontes/blob/main/Practica%202.2.md)
+- ### [Exposición](https://lmontes.tech/Practica%202.1.1.html)
+- ### [Practica 2.1.1: Hola Mundo](https://lmontes.tech/Practica%202.1.1.html)
+- ### [Practica 2.1.2: Hora de Internet](https://lmontes.tech/Practica%202.1.2.html)
+- ### [Practica 2.2: Temperatura](https://lmontes.tech/Practica%202.2.html)
 
 ## Contact
 
