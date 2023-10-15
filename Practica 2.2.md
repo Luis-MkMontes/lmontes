@@ -7,8 +7,8 @@
 
 # OBJETIVO:
 
-Hacer uso de el sensor interno de temperatura de la Pico W
-Desplegar la  temperatura e incluir un bitArray imagen tematica de esta pràctica (Frio, Càlido, Caliente).
+- Hacer uso de el sensor interno de temperatura de la Pico W
+- Desplegar la  temperatura e incluir un bitArray imagen tematica de esta practica (Frio, Càlido, Caliente).
 
 # CÓDIGO
 
